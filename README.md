@@ -1,1 +1,1 @@
-# google homepage project. I achieved the project with only HTML and CSS
+# google homepage project. I achieved the project with HTML and CSS
